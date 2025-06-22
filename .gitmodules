@@ -1,0 +1,3 @@
+[submodule "Hand_Gestures"]
+	path = Hand_Gestures
+	url = https://github.com/NhatTran-97/Hand-Gestures-Classification.git
