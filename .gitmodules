@@ -1,3 +1,6 @@
-[submodule "Hand_Gestures_Classification"]
+[submodule "Hand_Gestures"]
 	path = Hand_Gestures
 	url = https://github.com/NhatTran-97/Hand-Gestures-Classification.git
+[submodule "Animal_Classification"]
+	path = Animal_Classification
+	url = https://github.com/NhatTran-97/Animal-Classification.git
