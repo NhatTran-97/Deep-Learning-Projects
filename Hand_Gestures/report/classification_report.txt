@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+    turn_off       1.00      1.00      1.00        55
+      light1       1.00      0.90      0.95        60
+      light2       0.92      1.00      0.96        46
+      light3       1.00      1.00      1.00        46
+     turn_on       0.96      1.00      0.98        47
+
+    accuracy                           0.98       254
+   macro avg       0.98      0.98      0.98       254
+weighted avg       0.98      0.98      0.98       254
